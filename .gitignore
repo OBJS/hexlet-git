@@ -41,4 +41,7 @@ doc
 # Ignore coverage files
 /coverage
 .tool-versions
-.idea/
+.idea
+
+# Homework
+INFO.md
